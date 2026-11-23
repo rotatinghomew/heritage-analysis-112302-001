@@ -1,0 +1,6 @@
+wall,drain_group,assigned,sensor,calibration,observed_at,moisture,warning,rain,damage_review
+W1,G1,shelter,S1,valid,2026-05-03,0.34,0.40,R1,stable
+W2,G1,control,S2,valid,2026-05-03,0.46,0.40,R1,new_crack
+W3,G2,shelter,S3,invalid,2026-05-03,0.28,0.40,R1,unknown
+W4,G2,control,S4,valid,2026-05-03,0.37,0.40,R1,stable
+W5,G3,shelter,S1,valid,2026-05-10,0.45,0.40,R2,urgent

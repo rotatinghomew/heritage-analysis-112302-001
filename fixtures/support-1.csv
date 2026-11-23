@@ -1,0 +1,6 @@
+wall,material,side,emergency
+W1,brick,north,no
+W2,brick,south,no
+W3,stone,east,no
+W4,stone,west,no
+W5,brick,north,yes
