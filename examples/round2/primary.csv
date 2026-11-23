@@ -1,0 +1,12 @@
+wall,drain_group,assigned,sensor,calibration,observed_at,moisture,warning,rain,damage_review,model
+W1,G1,shelter,S1,valid,2026-05-03,0.34,0.40,R1,stable,M1
+W2,G1,control,S2,valid,2026-05-03,0.46,0.40,R1,new_crack,M1
+W3,G2,shelter,S3,invalid,2026-05-03,0.28,0.40,R1,unknown,M2
+W4,G2,control,S4,valid,2026-05-03,0.37,0.40,R1,stable,M1
+W5,G3,shelter,S1,valid,2026-05-10,0.45,0.40,R2,urgent,M1
+W6,G1,shelter,S1,valid,2026-05-03,0.30,0.40,R1,stable,M1
+W7,G1,control,S1,valid,2026-05-03,0.41,0.40,R1,stable,M1
+W1,G1,shelter,S1,valid,2026-06-01,0.31,0.40,R3,stable,M1
+W2,G1,control,S2,valid,2026-06-01,0.44,0.40,R3,new_crack,M1
+W3,G2,shelter,S3,valid,2026-06-01,0.35,0.40,R3,unknown,M2
+W4,G2,control,S4,valid,2026-06-01,0.39,0.40,R3,stable,M1

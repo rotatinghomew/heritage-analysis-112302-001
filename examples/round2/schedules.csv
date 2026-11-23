@@ -1,0 +1,3 @@
+schedule_id,wall,arm,start,end,status,signed_at,condition,comparison_snapshot,note
+S-001,W1,shelter,2026-05-01,2026-09-15,confirmed,2026-04-20,brick/north,"{""decision"": ""unknown_insufficient"", ""condition"": ""brick/north"", ""direct"": {""status"": ""insufficient_clusters"", ""clusters"": 1}}",保护作业
+S-002,W10,control,2026-06-15,2026-09-15,signed,2026-06-01,brick/south,"{""decision"": ""unknown_insufficient"", ""condition"": ""brick/south""}",既有对照排期

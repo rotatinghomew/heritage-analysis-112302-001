@@ -1,0 +1,8 @@
+review_id,wall,reviewed_at,outcome,independent
+D1,W1,2026-05-06,stable,yes
+D2,W2,2026-05-06,new_crack,yes
+D3,W3,2026-06-06,stable,yes
+D4,W4,2026-06-06,new_crack,yes
+D5,W5,2026-05-12,urgent,yes
+D6,W6,2026-06-06,stable,yes
+D7,W7,2026-06-06,stable,yes

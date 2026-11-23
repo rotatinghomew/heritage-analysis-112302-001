@@ -1,0 +1,7 @@
+wall,material,side,drain_group,available_from,available_to,note
+W8,brick,north,G1,2026-06-15,2026-09-15,
+W9,brick,north,G1,2026-06-15,2026-09-15,
+W10,brick,south,G1,2026-06-15,2026-09-15,
+W11,stone,east,G2,2026-06-15,2026-09-15,
+W12,stone,east,G2,2026-07-01,2026-09-15,
+W13,brick,north,G3,2026-06-15,2026-09-15,紧急墙邻段

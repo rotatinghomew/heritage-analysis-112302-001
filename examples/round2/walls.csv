@@ -1,0 +1,8 @@
+wall,material,side,emergency,neighbours,sheltered,shelter_start,shelter_end
+W1,brick,north,no,W6,yes,2026-05-01,
+W2,brick,south,no,,no,,
+W3,stone,east,no,,yes,2026-05-01,
+W4,stone,west,no,W3,no,,
+W5,brick,north,yes,,yes,2026-05-01,
+W6,brick,north,no,W1,yes,2026-05-01,
+W7,brick,north,no,W1,no,,

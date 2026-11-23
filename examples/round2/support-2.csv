@@ -1,0 +1,4 @@
+policy,item,rule
+P1,scope,reviewed
+P2,version,active
+P3,neighbour_risk_margin,0.05

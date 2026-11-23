@@ -1,0 +1,5 @@
+sensor,model,valid_from,valid_to,calibration
+S1,M1,2026-05-01,2026-06-30,valid
+S2,M1,2026-05-01,2026-06-30,valid
+S3,M2,2026-06-01,2026-06-30,valid
+S4,M1,2026-05-01,2026-06-30,valid
